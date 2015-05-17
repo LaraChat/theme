@@ -1,0 +1,99 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #757575;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.title{
+	font-family: 'Roboto', sans-serif;
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.brand-logo img {
+    padding-top: 5px;
+    height: 60px;
+}
+
+a {
+    color: #F8716F;
+}
+
+nav ul a {
+    color: #FFF;
+    border-bottom: 4px solid transparent;
+}
+
+nav ul a:hover {
+    border-bottom-color: #F8716F;
+    color: #FFF;
+}
+
+.red {
+    background-color: #F8716F !important;
+}
+
+.red-text {
+    color: #F8716F !important;
+}
+
+.cta, .cta em, .cta a {
+    background-color: #F8716F;
+    color: #fff;
+    padding: 5px;
+}
+
+.article h1 {
+    font-size: 2em;
+}
+
+nav {
+    background: url('../img/header.jpg') no-repeat;
+}
+
+.grey {
+    background-color: #384452 !important;
+}
+
+footer.page-footer {
+    margin-top: 0;
+}
+
+.article ul li {
+    list-style-type: circle;
+    margin-left: 35px;
+}
+
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    white-space: nowrap;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+
+.pagination {
+    font-size: 1.2em;
+    float: right;
+    font-weight: bold;
+}
