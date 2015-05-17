@@ -1,9 +1,9 @@
 # theme
-Theme files for AndroidChat.co website. 
+Theme files for LaraChat.co website. 
 
 ## Get Involved
 
-AndroidChat is about community, if you think the site can be improved, please make a pull request to propose your updates or fixes. 
+LaraChat is about community, if you think the site can be improved, please make a pull request to propose your updates or fixes. 
 
 
 ## Libraries
